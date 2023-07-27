@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.read-more-link {
+    color: teal ;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.extra-content {
+    color: cornflowerblue;
+    font-weight: 500;
+}
